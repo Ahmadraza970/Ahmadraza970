@@ -8,7 +8,7 @@
 
 Hotel & local-business websites with direct booking and WhatsApp enquiry flows — plus AI chatbots and workflow automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-E1461C?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-studioportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-E1461C?style=for-the-badge&logo=render&logoColor=white)](https://ahmadstudio.onrender.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![Instagram](https://img.shields.io/badge/Instagram-@developer__studios-E1461C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer__studios)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
@@ -25,7 +25,7 @@ Developer by day, studio by night. I'm a student from Bihar, India, building **A
 
 My focus is simple: a website shouldn't just look good, it should *finish the booking* — take the enquiry, answer the customer, and bring the business the sale.
 
-- **Portfolio:** [ahmad-studioportfolio.vercel.app](https://ahmad-studioportfolio.vercel.app) · mirror: [ahmadstudio.onrender.com](https://ahmadstudio.onrender.com)
+- **Portfolio:** [ahmadstudio.onrender.com](https://ahmadstudio.onrender.com) · mirror: [ahmad-studioportfolio.vercel.app](https://ahmad-studioportfolio.vercel.app)
 - **Certified:** HP LIFE — *Strategic Planning in the AI Age* (HP Foundation, 2026)
 
 ## What I Build
@@ -83,7 +83,7 @@ AI chatbot web app with streaming markdown & code replies.
 - **Crown Order** — restaurant orders sent straight to the kitchen's WhatsApp
 - **ProofCode AI** · **V Bazzar** · **Mindpower Institute**
 
-See them all on the [portfolio](https://ahmad-studioportfolio.vercel.app).
+See them all on the [portfolio](https://ahmadstudio.onrender.com).
 
 ## Open Source
 
@@ -120,7 +120,7 @@ See them all on the [portfolio](https://ahmad-studioportfolio.vercel.app).
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmad--studioportfolio.vercel.app-E1461C?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-studioportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadstudio.onrender.com-E1461C?style=for-the-badge&logo=render&logoColor=white)](https://ahmadstudio.onrender.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![Instagram](https://img.shields.io/badge/Instagram-@developer__studios-E1461C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer__studios)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2098356%2085952-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
