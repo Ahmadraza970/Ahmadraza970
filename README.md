@@ -112,6 +112,12 @@ See them all on the [portfolio](https://ahmadstudio.onrender.com).
 
 </div>
 
+## Contribution Graph
+
+![Contribution graph](./assets/contribution-graph.svg)
+
+<sub>Stats, languages and this graph refresh automatically every day from real GitHub data.</sub>
+
 ## Currently Learning
 
 - **Backend development + AI** — Node.js and RAG-based applications
