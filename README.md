@@ -106,9 +106,9 @@ See them all on the [portfolio](https://ahmadstudio.onrender.com).
 
 <div align="center">
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadraza970&show_icons=true&title_color=E1461C&icon_color=E1461C&text_color=333333&bg_color=FFFFFF&border_color=D6D1C4)
+![Ahmad's GitHub stats](./assets/github-stats.svg)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadraza970&layout=compact&title_color=E1461C&text_color=333333&bg_color=FFFFFF&border_color=D6D1C4)
+![Top languages](./assets/top-langs.svg)
 
 </div>
 
