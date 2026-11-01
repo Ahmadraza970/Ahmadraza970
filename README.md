@@ -2,7 +2,7 @@
 
 # Ahmad Raza
 
-### Founder — Ahmad Digital Studio · Web Developer & Designer · Bihar, India
+### Freelance Web Developer & Designer · Bihar, India
 
 ## *Websites that finish the booking.*
 
