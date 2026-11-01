@@ -2,7 +2,7 @@
 
 # Ahmad Raza
 
-### Freelance Web Developer & Designer · Bihar, India
+### Founder — Ahmad Digital Studio · Web Developer & Designer · Bihar, India
 
 ## *Websites that finish the booking.*
 
@@ -69,9 +69,9 @@ Closes Reels & Shorts to break the scroll loop. Zero permissions.
 </td>
 <td width="50%" valign="top">
 
-### [MD-Bot](https://md-bot.netlify.app/)
+### [MarkBot](https://markbot-ahmad.vercel.app)
 
-AI chatbot web app with streaming markdown & code replies.
+AI chatbot with streaming markdown & code replies — on the web and as a free Android app.
 
 </td>
 </tr>
@@ -106,17 +106,11 @@ See them all on the [portfolio](https://ahmadstudio.onrender.com).
 
 <div align="center">
 
-![Ahmad's GitHub stats](./assets/github-stats.svg)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadraza970&show_icons=true&title_color=E1461C&icon_color=E1461C&text_color=333333&bg_color=FFFFFF&border_color=D6D1C4)
 
-![Top languages](./assets/top-langs.svg)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadraza970&layout=compact&title_color=E1461C&text_color=333333&bg_color=FFFFFF&border_color=D6D1C4)
 
 </div>
-
-## Contribution Graph
-
-![Contribution graph](./assets/contribution-graph.svg)
-
-<sub>Stats, languages and this graph refresh automatically every day from real GitHub data.</sub>
 
 ## Currently Learning
 
