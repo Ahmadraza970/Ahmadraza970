@@ -8,7 +8,7 @@
 
 Hotel & local-business websites with direct booking and WhatsApp enquiry flows — plus AI chatbots and workflow automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-E1461C?style=for-the-badge&logo=render&logoColor=white)](https://ahmadrazaa.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-E1461C?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadrazaa.me)
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![Instagram](https://img.shields.io/badge/Instagram-@developer__studios-E1461C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer__studios)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
@@ -75,6 +75,22 @@ AI chatbot with streaming markdown & code replies — on the web and as a free A
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Ahmad Browser](https://ahmad-browser.vercel.app)
+
+A tiny private browser for Android — no history saved, trackers blocked, everything wipes on close.
+
+</td>
+<td width="50%" valign="top">
+
+### [HustleArc](https://hustlearc.vercel.app)
+
+Winter Arc habit tracker — free, fully offline, no account, data stays on your device.
+
+</td>
+</tr>
 </table>
 
 ## Selected Work
@@ -120,7 +136,7 @@ See them all on the [portfolio](https://ahmadrazaa.me).
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadrazaa.me-E1461C?style=for-the-badge&logo=render&logoColor=white)](https://ahmadrazaa.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadrazaa.me-E1461C?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadrazaa.me)
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![Instagram](https://img.shields.io/badge/Instagram-@developer__studios-E1461C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer__studios)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2098356%2085952-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
