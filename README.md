@@ -2,7 +2,7 @@
 
 # Ahmad Raza
 
-### Founder — Ahmad Digital Studio · Web Developer & Designer · Bihar, India
+### Freelancer — Ahmad Digital Studio · Web Developer & Designer · Bihar, India
 
 ## *Websites that finish the booking.*
 
@@ -18,6 +18,27 @@ Hotel & local-business websites with direct booking and WhatsApp enquiry flows �
 </div>
 
 ---
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
 
 ## About
 
