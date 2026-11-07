@@ -12,7 +12,7 @@ Hotel & local-business websites with direct booking and WhatsApp enquiry flows �
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
 
-**4** apps live &nbsp;·&nbsp; **12+** projects live online &nbsp;·&nbsp; **100%** free apps — no ads, no trackers &nbsp;·&nbsp; **169** YouTube subscribers
+**7** apps live &nbsp;·&nbsp; **12+** projects live online &nbsp;·&nbsp; **100%** free apps — no ads, no trackers &nbsp;·&nbsp; **169** YouTube subscribers
 
 </div>
 
@@ -108,6 +108,19 @@ A tiny private browser for Android — no history saved, trackers blocked, every
 ### [HustleArc](https://hustlearc.vercel.app)
 
 Winter Arc habit tracker — free, fully offline, no account, data stays on your device.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [ProofCode](https://proofcodeweb.onrender.com)
+
+Code scanner that checks projects for security issues and bugs — 26 checks across 6 languages, every finding explained in plain words.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
