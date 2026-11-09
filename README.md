@@ -172,7 +172,7 @@ See them all on the [portfolio](https://ahmadrazaa.me).
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadrazaa.me-E1461C?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadrazaa.me)
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2098356%2085952-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
-[![Email](https://img.shields.io/badge/Email-ahmadbkj92@gmail.com-E1461C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbkj92@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40ahmadrazaa.me-E1461C?style=for-the-badge&logoColor=white)](mailto:hello@ahmadrazaa.me)
 
 ---
 
