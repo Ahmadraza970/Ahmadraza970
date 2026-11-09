@@ -155,7 +155,10 @@ See them all on the [portfolio](https://ahmadrazaa.me).
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/summary-light.svg" width="600" alt="Ahmad's GitHub stats — commits, pull requests, issues, stars and most used languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/summary-light.svg" width="600" alt="Ahmad's GitHub stats — commits, pull requests, issues, stars and most used languages">
+</picture>
 
 </div>
 
