@@ -155,9 +155,7 @@ See them all on the [portfolio](https://ahmadrazaa.me).
 
 <div align="center">
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadraza970&show_icons=true&title_color=E1461C&icon_color=E1461C&text_color=333333&bg_color=FFFFFF&border_color=D6D1C4)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadraza970&layout=compact&title_color=E1461C&text_color=333333&bg_color=FFFFFF&border_color=D6D1C4)
+<img src="https://raw.githubusercontent.com/Ahmadraza970/Ahmadraza970/cards/summary-light.svg" width="600" alt="Ahmad's GitHub stats — commits, pull requests, issues, stars and most used languages">
 
 </div>
 
