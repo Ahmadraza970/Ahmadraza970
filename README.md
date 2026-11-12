@@ -12,7 +12,7 @@ Hotel & local-business websites with direct booking and WhatsApp enquiry flows �
 [![YouTube](https://img.shields.io/badge/YouTube-@buildbyahmad-E1461C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@buildbyahmad)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-E1461C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919835685952)
 
-**7** apps live &nbsp;·&nbsp; **12+** projects live online &nbsp;·&nbsp; **100%** free apps — no ads, no trackers &nbsp;·&nbsp; **169** YouTube subscribers
+**7** apps live &nbsp;·&nbsp; **12+** projects live online &nbsp;·&nbsp; **100%** free apps — no ads, no trackers &nbsp;·&nbsp; **170** YouTube subscribers
 
 </div>
 
